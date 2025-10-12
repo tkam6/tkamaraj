@@ -11,7 +11,7 @@ If you want to collaborate, please contact via GitHub. I am open to projects in 
 
 I am employed at Infinite Inc. Infinite is a software company that primarily produces command-line
 applications and tools. I am the CEO, CTO, HR manager and whatever positions you can imagine of the
-company. That is because I am the only person in this imaginary company. I hope one day it will
+company. That is because the only person in this imaginary company is me. I hope one day it will
 become a real company.  
 
 In case you are interested, you can also take a look at [my website](http://cpythonist.github.io/)
