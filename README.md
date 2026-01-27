@@ -1,5 +1,5 @@
 
-# @cpythonist
+# @tkamaraj
 
 I am Thiruvalluvan Kamaraj. I am a self-taught programmer. I come from India.
 
@@ -14,5 +14,5 @@ applications and tools. I am the CEO, CTO, HR manager and whatever positions you
 company. That is because the only person in this imaginary company is me. I hope one day it will
 become a real company.  
 
-In case you are interested, you can also take a look at [my website](http://cpythonist.github.io/)
+In case you are interested, you can also take a look at [my website](http://tkamaraj.github.io/)
 (it's a work-in-progress right now).
